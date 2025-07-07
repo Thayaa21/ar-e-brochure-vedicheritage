@@ -1,16 +1,16 @@
-# 🕉️ AR-Based E-Brochure – Unity + Vuforia + ML (Client: SriVanam Vedic Heritage)
+#  AR-Based E-Brochure – Unity + Vuforia + ML (Client: SriVanam Vedic Heritage)
 
 This project transformed a traditional real estate brochure into a fully immersive **AR experience**, built using Unity and enhanced with a custom ML pipeline for 3D reconstruction. Developed during my internship at Gramophone Media Lab when I was just **18 years old**, this solution was pitched by me and adopted by the company — resulting in **₹1.6 lakh (~$2,000 USD)** revenue in its first month.
 
 ---
 
-## 🧠 Project Highlights
+## Project Highlights
 
-- 🧒 **Intern-Led Innovation**: Proposed and delivered at age 18 during internship.
-- 💰 **Business Impact**: Helped close multiple leads with AR-based marketing.
-- 🧠 **ML-Powered 3D Mapping**: Used a 2022-era multi-view ML model to generate **3D terrain** of the property’s hill location.
-- 🧱 **Unity + Vuforia Engineering**: Built full image tracking + prefab visualization system.
-- 📱 **Complete AR Demo**: Interactive villa model, map route, terrain visuals—all on Android.
+-  **Intern-Led Innovation**: Proposed and delivered at age 18 during internship.
+-  **Business Impact**: Helped close multiple leads with AR-based marketing.
+-  **ML-Powered 3D Mapping**: Used a 2022-era multi-view ML model to generate **3D terrain** of the property’s hill location.
+-  **Unity + Vuforia Engineering**: Built full image tracking + prefab visualization system.
+-  **Complete AR Demo**: Interactive villa model, map route, terrain visuals—all on Android.
 
 ---
 
@@ -37,6 +37,9 @@ All images used below are compressed versions of original demo content.
 |--------------------------|---------------------------|---------------------------|
 | ![](asset/pic1.png)      | ![](asset/pic3.png)       |  ![](asset/pic2.png)      |
 
+| Aerial Overview           |
+|---------------------------|
+| ![](asset/pic2.png)   |
 ---
 
 ### 🏘️ 2. AR Experience Output (Live App Preview)
@@ -48,7 +51,7 @@ All images used below are compressed versions of original demo content.
                            
 | Aerial Overview           |
 |---------------------------|
-| ![](asset/Picture3.jpg)   |
+| ![](asset/Picture3.png)   |
 ---
 
 ### 🛠️ 3. Unity Project Internals
