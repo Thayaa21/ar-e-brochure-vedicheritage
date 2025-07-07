@@ -41,11 +41,14 @@ All images used below are compressed versions of original demo content.
 
 ### 🏘️ 2. AR Experience Output (Live App Preview)
 
-| AR Villa View            | Route Map in AR           | Aerial Overview           |
-|--------------------------|---------------------------|---------------------------|
-| ![](asset/Picture1.png)  | ![](asset/Picture4.png)  | ![](asset/Picture3.jpg)  |
-| ![](asset/Picture2.png)  | ---------------------     | ----------------------    |
-
+| AR Villa View            | Route Map in AR            |
+|--------------------------|--------------------------- |
+| ![](asset/Picture1.png)  | ![](asset/Picture4.png)    |
+| ![](asset/Picture2.png)  | 
+                           
+| Aerial Overview           |
+|---------------------------|
+| ![](asset/Picture3.jpg)   |
 ---
 
 ### 🛠️ 3. Unity Project Internals
@@ -53,24 +56,9 @@ All images used below are compressed versions of original demo content.
 | Unity Scene              | AR Camera Config          |
 |--------------------------|---------------------------|
 | ![](asset/Image1.png)   | ![](asset/Image3.png)     |
-| ![](asset/Image3.png)   | -----------------------   |
+| ![](asset/Image3.png)   |                           |
 
----
 
-## 📦 Project Structure
-ar-e-brochure-vedicheritage/
-├── Assets/
-├── apk/
-│   └── mainsrivanam.apk
-├── assets/
-│   ├── brochure1.jpg
-│   ├── ar1.jpg
-│   ├── unity1.jpg
-│   └── …
-├── README.md
-└── .gitignore
-
----
 
 ## ⚠️ Disclaimer
 
