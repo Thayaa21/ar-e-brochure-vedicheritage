@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="first1" size="0.210000 0.283565" />
+    <ImageTarget name="firstcoin" size="0.210000 0.067874" />
+    <ImageTarget name="second_coin" size="0.210000 0.064444" />
+    <ImageTarget name="main_video" size="0.410000 0.289526" />
+    <ImageTarget name="0002" size="0.150000 0.217438" />
+  </Tracking>
+</QCARConfig>
