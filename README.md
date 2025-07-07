@@ -58,7 +58,7 @@ All images used below are compressed versions of original demo content.
 
 | Unity Scene              | AR Camera Config          |
 |--------------------------|---------------------------|
-| ![](asset/Image1.png)   | ![](asset/Image3.png)     |
+| ![](asset/Image1.png)   | ![](asset/Image2.png)     |
 | ![](asset/Image3.png)   |                           |
 
 
