@@ -25,7 +25,7 @@ This project transformed a traditional real estate brochure into a fully immersi
 
 ---
 
-## 🖼️ Project Demo (Screenshots)
+##  Project Demo (Screenshots)
 
 All images used below are compressed versions of original demo content.
 
@@ -33,16 +33,16 @@ All images used below are compressed versions of original demo content.
 
 ### 📄 1. Traditional Brochure (Before AR)
 
-| Front View               | Brochure Inside           | Back View                 |
-|--------------------------|---------------------------|---------------------------|
-| ![](asset/pic1.png)      | ![](asset/pic3.png)       |  ![](asset/pic2.png)      |
+| Front View               | Brochure Inside           |
+|--------------------------|---------------------------|
+| ![](asset/pic1.png)      | ![](asset/pic3.png)       |
 
-| Aerial Overview           |
+| Back View           |
 |---------------------------|
 | ![](asset/pic2.png)   |
 ---
 
-### 🏘️ 2. AR Experience Output (Live App Preview)
+###  2. AR Experience Output (Live App Preview)
 
 | AR Villa View            | Route Map in AR            |
 |--------------------------|--------------------------- |
@@ -54,7 +54,7 @@ All images used below are compressed versions of original demo content.
 | ![](asset/Picture3.png)   |
 ---
 
-### 🛠️ 3. Unity Project Internals
+###  3. Unity Project Internals
 
 | Unity Scene              | AR Camera Config          |
 |--------------------------|---------------------------|
@@ -63,14 +63,14 @@ All images used below are compressed versions of original demo content.
 
 
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project was built in 2021–2022 and may not run on newer Unity versions.  
 Shared for portfolio and demo purposes.
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - **Client:** SriVanam Vedic Heritage
 - **Company:** Gramophone Media Lab
